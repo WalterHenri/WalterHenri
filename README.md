@@ -51,5 +51,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-walter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/walter-santos-developer/))](https://www.linkedin.com/in/walter-santos-developer/)
-[![Gmail Badge](https://img.shields.io/badge/-walterdoideira5438@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walterdoideira5438@gmail.com)](mailto:walterdoideira5438@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-waltercomercial6@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waltercomercial6@gmail.com)](mailto:walterdoideira5438@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/WalterHenri)
