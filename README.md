@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de informação na Universidade Federal de Sergipe.
-- 💼 Trabalhando como Desenvolvedor Backend Pleno (.NET) na Eru Tecnologia.
+- 🤔 Explorando Microserviços e construindo software de qualidade.
+- 🎓 Bacharel em Sistemas de informação na Universidade Federal de Sergipe.
+- 💼 Trabalhando como Desenvolvedor Backend na Protech Solutions.
 
 ## Minhas Skills
 
