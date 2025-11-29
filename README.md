@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 💼 Trabalhando como Desenvolvedor Backend na Mottu 🏍️💚.
+- 💼 Trabalhando como Desenvolvedor Backend.
 - 🤔 Explorando Microserviços e construindo software de qualidade.
 - 🎓 Bacharel em Sistemas de informação na Universidade Federal de Sergipe.
 
