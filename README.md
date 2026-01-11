@@ -3,7 +3,6 @@
 ## About Me
 
 - 💼 **Backend Developer** specializing in scalable microservices architecture
-- 🎮 **Game Development Enthusiast** - Leader of [TBRBR](https://github.com/tbrbr) and [TheBestRoosterBr](https://github.com/TheBestRoosterBr) gaming organizations
 - 🚀 Building high-performance systems with **.NET, C#, and Python**
 - 🏗️ Exploring **Microservices, System Design, and Cloud-Native Architectures**
 - 🎓 **Bachelor's Degree in Information Systems** from Universidade Federal de Sergipe
@@ -47,11 +46,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-333333?style=flat&logo=openapi-initiative)
-
-**Game Development**
-
-![SFML](https://img.shields.io/badge/-SFML-333333?style=flat&logo=sfml)
-![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=opengl)
 
 **Development Tools**
 
