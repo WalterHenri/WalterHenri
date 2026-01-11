@@ -1,50 +1,83 @@
 ![](https://komarev.com/ghpvc/?username=WalterHenri&color=006bed)
 
-## Sobre mim
+## About Me
 
-- 💼 Trabalhando como Desenvolvedor Backend.
-- 🤔 Explorando Microserviços e construindo software de qualidade.
-- 🎓 Bacharel em Sistemas de informação na Universidade Federal de Sergipe.
+- 💼 **Backend Developer** specializing in scalable microservices architecture
+- 🎮 **Game Development Enthusiast** - Leader of [TBRBR](https://github.com/tbrbr) and [TheBestRoosterBr](https://github.com/TheBestRoosterBr) gaming organizations
+- 🚀 Building high-performance systems with **.NET, C#, and Python**
+- 🏗️ Exploring **Microservices, System Design, and Cloud-Native Architectures**
+- 🎓 **Bachelor's Degree in Information Systems** from Universidade Federal de Sergipe
+- 🔬 Published research on **Quantum Cryptography Visualization** and **RAG Architecture for AI**
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Languages & Frameworks**
 
-![C#](https://img.shields.io/badge/C%23-8C3DD1?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.NET)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend & Databases**
+
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-333333?style=flat&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![xUnit Tests](https://img.shields.io/badge/-xUnit%20Tests-333333?style=flat&logo=xunit)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
 
-**Utilidades**
+**Cloud & DevOps**
 
-![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
-![OpenAPI](https://img.shields.io/badge/-OpenAPI-333333?style=flat&logo=openapi-initiative)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoft-azure)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azure-devops)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
 
-**Ferramentas de desenvolvimento**
+**Monitoring & Observability**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
+![DataDog](https://img.shields.io/badge/-DataDog-333333?style=flat&logo=datadog)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+
+**Testing & API Tools**
+
+![xUnit](https://img.shields.io/badge/-xUnit-333333?style=flat&logo=xunit)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-333333?style=flat&logo=openapi-initiative)
+
+**Game Development**
+
+![SFML](https://img.shields.io/badge/-SFML-333333?style=flat&logo=sfml)
+![OpenGL](https://img.shields.io/badge/-OpenGL-333333?style=flat&logo=opengl)
+
+**Development Tools**
+
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
+![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=rider)
 ![DataGrip](https://img.shields.io/badge/-DataGrip-333333?style=flat&logo=datagrip)
 
-<br/>
+💼 **Professional Highlights**
+- Microservices architecture for fintech applications
+- Cloud-native solutions generating R$20M+ in sales
+- AI-powered credit risk assessment systems
+- Event-driven architectures with RabbitMQ and Kubernetes
 
-<a href="https://github.com/WalterHenri" title="Perfil de Walter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WalterHenri&theme=dracula&show_icons=true" />
-</a>
+## Certifications
 
-## Onde me encontrar
+🏆 **Docker Foundations Professional Certificate** - Docker, Inc. (Sept 2025)  
+🏆 **OCI Developer Professional Certificate** - Oracle, Inc. (Oct 2025)
 
-[![Linkedin](https://img.shields.io/badge/-walter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/walter-santos-developer/))](https://www.linkedin.com/in/walter-santos-developer/)
-[![Gmail Badge](https://img.shields.io/badge/-waltercomercial6@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waltercomercial6@gmail.com)](mailto:walterdoideira5438@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/WalterHenri)
+## Connect With Me
+
+[![Linkedin](https://img.shields.io/badge/-Walter%20Santos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-santos-developer/)
+[![Gmail](https://img.shields.io/badge/-waltercomercial6@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:waltercomercial6@gmail.com)
+[![GitHub](https://img.shields.io/badge/-WalterHenri-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/WalterHenri)
+
+---
+
+⭐️ From [WalterHenri](https://github.com/WalterHenri)
