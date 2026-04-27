@@ -61,11 +61,6 @@
 - AI-powered credit risk assessment systems
 - Event-driven architectures with RabbitMQ and Kubernetes
 
-## Certifications
-
-🏆 **Docker Foundations Professional Certificate** - Docker, Inc. (Sept 2025)  
-🏆 **OCI Developer Professional Certificate** - Oracle, Inc. (Oct 2025)
-
 ## Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/-Walter%20Santos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/walter-santos-developer/)
